@@ -1,0 +1,10 @@
+F:\VR_Department\Project\MysqlVS\MyGameServer\bin\Debug\MyGameServer.dll
+F:\VR_Department\Project\MysqlVS\MyGameServer\bin\Debug\MyGameServer.pdb
+F:\VR_Department\Project\MysqlVS\MyGameServer\obj\Debug\MyGameServer.dll
+F:\VR_Department\Project\MysqlVS\MyGameServer\obj\Debug\MyGameServer.pdb
+D:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+D:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+D:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+F:\VR_Department\Project\MysqlVS\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+D:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll.config

@@ -1,0 +1,12 @@
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.exe.config
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.exe
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.pdb
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.exe
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.pdb
+F:\VR事业部\项目\PhotonSever\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.csprojResolveAssemblyReference.cache
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.exe.config
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.exe
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.pdb
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.exe
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\bin\Debug\CSharpConnectMysql.pdb
+F:\VR_Department\Project\MysqlVS\CSharpConnectMysql\obj\Debug\CSharpConnectMysql.csprojResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConnectMysql", "CSharpConnectMysql\CSharpConnectMysql.csproj", "{B8F5D731-1090-44AE-A3A8-8CC27A95CB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateConnectMysql", "NHibernateConnectMysql\NHibernateConnectMysql.csproj", "{411ED7B9-D5E4-41C2-9A6A-E09EEB05EECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameServer", "MyGameServer\MyGameServer.csproj", "{99549275-3647-4587-AB24-D6E88AB9A37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{12E3378F-2FEA-45A8-A670-59EB03673156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F5D731-1090-44AE-A3A8-8CC27A95CB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F5D731-1090-44AE-A3A8-8CC27A95CB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F5D731-1090-44AE-A3A8-8CC27A95CB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F5D731-1090-44AE-A3A8-8CC27A95CB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411ED7B9-D5E4-41C2-9A6A-E09EEB05EECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411ED7B9-D5E4-41C2-9A6A-E09EEB05EECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411ED7B9-D5E4-41C2-9A6A-E09EEB05EECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411ED7B9-D5E4-41C2-9A6A-E09EEB05EECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99549275-3647-4587-AB24-D6E88AB9A37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99549275-3647-4587-AB24-D6E88AB9A37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99549275-3647-4587-AB24-D6E88AB9A37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99549275-3647-4587-AB24-D6E88AB9A37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E3378F-2FEA-45A8-A670-59EB03673156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E3378F-2FEA-45A8-A670-59EB03673156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E3378F-2FEA-45A8-A670-59EB03673156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E3378F-2FEA-45A8-A670-59EB03673156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

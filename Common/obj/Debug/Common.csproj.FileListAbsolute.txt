@@ -1,0 +1,7 @@
+F:\VR_Department\Project\MysqlVS\Common\bin\Debug\Common.dll
+F:\VR_Department\Project\MysqlVS\Common\bin\Debug\Common.pdb
+F:\VR_Department\Project\MysqlVS\Common\obj\Debug\Common.dll
+F:\VR_Department\Project\MysqlVS\Common\obj\Debug\Common.pdb
+F:\VR_Department\Project\PhotonSiki\Assets\Plugins\Common.dll
+F:\VR_Department\Project\PhotonSiki\Assets\Plugins\Common.pdb
+F:\VR_Department\Project\MysqlVS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
