@@ -30,7 +30,7 @@ namespace MyGameServer.Threads
             while (true)
             {
                 
-                Thread.Sleep(50);
+                Thread.Sleep(20);
                 //进行同步                
                 SendPosition();
             }           
